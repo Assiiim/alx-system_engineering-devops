@@ -1,2 +1,2 @@
 #!/bin/bash
-cp uppercase letter files /tmp/u 
+mv uppercase letter files /tmp/u
